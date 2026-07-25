@@ -1,2 +1,7 @@
-# XOLANI-Eco-Resort
-XOLANI Eco Resort &amp; Aqua Retreat - Project Operating System
+# XOLANI Eco Resort
+
+## Project Operating System (XPOS)
+
+This repository is the single source of truth for the XOLANI Eco Resort project.
+
+Repository Status: Release 0.1 – Repository Foundation
