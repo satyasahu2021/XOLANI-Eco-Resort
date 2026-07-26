@@ -1,4 +1,2 @@
-# CHANGE LOG
-
-## v1.0
-- Bootstrap created.
+# Sprint 2.1
+Imported 507 assets.
