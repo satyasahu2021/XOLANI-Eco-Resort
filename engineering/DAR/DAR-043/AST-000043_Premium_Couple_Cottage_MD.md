@@ -214,3 +214,51 @@ AST-041 remains unchanged.
 The Base Master Plan remains unchanged.
 
 The Premium Couple Cottage remains a design-study basis pending subsequent technical development.
+
+## 15. Technical Requirements
+
+### Accommodation
+- One-bedroom Premium Couple Cottage.
+- Working Hybrid DPR basis: 2 keys.
+- King-bed accommodation.
+- Couple lounge.
+
+### Premium Guest Facilities
+- Premium bathroom.
+- Rain shower.
+- Premium vanity.
+- Mini-bar / beverage pantry.
+- Premium FF&E.
+- Premium lighting.
+
+### External Amenity
+- Private deck retained.
+- Deck remains based on the existing standard cottage deck-size basis.
+- No enlargement of the deck is required by this design decision.
+
+### Access and Orientation
+- Entrance: West side.
+- Private deck: East side.
+- Controlled project orientation:
+  - North: DOWN
+  - South: UP
+  - East: LEFT
+  - West: RIGHT
+
+### Planning Controls
+- Base Master Plan remains unchanged.
+- Existing C-01 to C-08 cottage arrangement remains unchanged.
+- AST-000041 remains the approved Standard Family Cottage basis for 6 keys.
+- AST-000043 is the independent Premium Couple Cottage design basis for 2 keys.
+
+### Premium Design Principle
+Premium differentiation is to be achieved primarily through the approved internal facilities, guest amenities, FF&E, lighting and spatial experience rather than by increasing the basic cottage size.
+
+### Technical Reservations
+- Current area figures remain preliminary design-study values.
+- Final architectural area reconciliation is pending.
+- Structural coordination is pending.
+- MEP coordination is pending.
+- Detailed engineering is deferred.
+- Final BOQ and cost certification are deferred.
+- Construction documentation and construction authorization are not established by this MD.
