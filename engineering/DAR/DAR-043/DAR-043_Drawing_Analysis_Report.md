@@ -196,3 +196,32 @@ Premium differentiation is to be achieved primarily through the approved interna
 - Detailed engineering is deferred.
 - Final BOQ and cost certification are deferred.
 - Construction documentation and construction authorization are not established by this DAR.
+
+## Accommodation Design-Basis Integration
+
+The approved Hybrid DPR accommodation basis comprises **8 cottage keys**:
+
+- **AST-000041 - Standard Family Cottage:** 6 keys.
+- **AST-000043 - Premium Couple Cottage:** 2 keys.
+
+AST-000041 remains the approved Standard Family Cottage basis and is not modified, superseded, or replaced by AST-000043.
+
+AST-000043 is the independent one-bedroom Premium Couple Cottage design-study basis approved under DEC-000004.
+
+The Premium Couple Cottage is intended to provide premium differentiation through its approved accommodation arrangement, king-bed provision, couple lounge, premium bathroom, rain shower, premium vanity, mini-bar/beverage pantry, premium FF&E and lighting, and private deck.
+
+The current AST-000043 area figures remain **preliminary design-study values**. No final accommodation area is established by this integration note.
+
+The approximately 800 sq ft built-up-area statements recorded in DAR-004 and DAR-005 relate to the B-04 Utility & Service Block and are **not applicable** to AST-000043 and shall not be used as a Premium Couple Cottage area basis.
+
+Accordingly:
+
+- Total cottage key count: **8**
+- Standard Family Cottage keys: **6**
+- Premium Couple Cottage keys: **2**
+- Premium Couple Cottage final area: **Pending architectural reconciliation**
+- Final structural and MEP coordination: **Pending**
+- Final BOQ/cost certification: **Pending**
+- Construction documentation: **Deferred**
+
+This integration does not modify the Base Master Plan, C-01 to C-08 arrangement, AST-041, DDIF-001, or the current AST-000043 PNG.
