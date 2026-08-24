@@ -1,4 +1,4 @@
-﻿# DAR-044 - Drawing Analysis Report
+# DAR-044 - Drawing Analysis Report
 
 ## Controlled Asset
 
@@ -6,7 +6,8 @@
 - File: ChatGPT Image Jul 18, 2026, 01_37_13 AM.png
 - Repository path: drawings/Current/ChatGPT Image Jul 18, 2026, 01_37_13 AM.png
 - DAR ID: DAR-044
-- Original source SHA-256: A88AE25A53EDFCC784E1F31E42BACCF1874EAC2E51B99E6ACD2B18DD426756BB
+- Original authoritative source SHA-256: A88AE25A53EDFCC784E1F31E42BACCF1874EAC2E51B99E6ACD2B18DD426756BB
+- Corrected installed drawing SHA-256: 64629EBF5DBB7AF1A2F9B4EF2AFC6F47D9E39E1C40165F4165027768B7AE5119
 
 ## Drawing Identity
 
@@ -91,15 +92,31 @@ Therefore AST-000044 contains an **orientation representation discrepancy** rela
 
 ## Controlled Correction Status
 
-**NO CORRECTION HAS BEEN APPLIED.**
+**APPROVED — COMPASS ONLY**
 
-This DAR records the observed discrepancy only.
+The orientation representation has been corrected in the installed AST-000044 PNG under the locked XOLANI project orientation standard.
 
-No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change has been authorized or performed by this DAR.
+Controlled orientation after correction:
 
-Any future orientation correction shall require explicit controlled authorization and shall follow the locked project orientation procedure.
+- North: DOWN
+- South: UP
+- East: LEFT
+- West: RIGHT
 
-The substantive building geometry shall not be silently rotated or mirrored.
+The correction was restricted to the controlled compass region only.
+
+Independent pixel reconciliation established:
+
+- Changed pixels inside controlled compass region: **3,698**
+- Changed pixels outside controlled compass region: **0**
+
+No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change was made.
+
+The substantive building geometry was not rotated or mirrored.
+
+The original source artifact was preserved before correction in the controlled backup:
+
+`00_PROJECT_CONTROL/_controlled_backups/AST-000044_before_compass_correction_20260824_114950.png`
 
 ## Architectural Evidence
 
@@ -157,9 +174,13 @@ It is not, by itself, a statutory land survey, sanctioned approval drawing, stru
 
 DAR-044 establishes AST-000044 as the controlled analysis record for the A-005 Reception & Lobby Building drawing.
 
-The orientation discrepancy is recorded for controlled disposition.
+The orientation discrepancy has been resolved by the approved compass-only correction.
 
-**No source PNG modification is made by this DAR.**
+The installed AST-000044 PNG is now the corrected controlled drawing artifact with SHA-256:
+
+`64629EBF5DBB7AF1A2F9B4EF2AFC6F47D9E39E1C40165F4165027768B7AE5119`
+
+The correction is limited to the controlled compass representation. No substantive drawing geometry or architectural content was changed.
 
 ## Status
 
