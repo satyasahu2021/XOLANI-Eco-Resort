@@ -1,13 +1,13 @@
-﻿# AST-000044 - Reception & Lobby Building MD
+# AST-000044 - Reception & Lobby Building MD
 
 ## Controlled Asset
 
-**Asset ID:** AST-000044  
-**DAR:** DAR-044  
-**Drawing:** A-005  
-**Revision:** R0  
-**Date:** 15 MAY 2025  
-**Design Status:** INSPECTED — ORIENTATION DISCREPANCY RECORDED  
+**Asset ID:** AST-000044
+**DAR:** DAR-044
+**Drawing:** A-005
+**Revision:** R0
+**Date:** 15 MAY 2025
+**Design Status:** INSPECTED — ORIENTATION DISCREPANCY RECORDED
 **Repository Source:** drawings/Current/ChatGPT Image Jul 18, 2026, 01_37_13 AM.png
 
 This Material/Design Basis records the controlled design evidence extracted from AST-000044 and DAR-044. It does not authorize alteration of the source drawing.
