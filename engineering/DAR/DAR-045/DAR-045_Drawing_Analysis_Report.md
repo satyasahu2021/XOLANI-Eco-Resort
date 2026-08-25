@@ -1,4 +1,4 @@
-﻿# DAR-045 - Drawing Analysis Report
+# DAR-045 - Drawing Analysis Report
 
 ## Controlled Asset
 
@@ -94,15 +94,27 @@ Therefore AST-000045 contains an **orientation representation discrepancy** rela
 
 ## Controlled Correction Status
 
-**NO CORRECTION HAS BEEN APPLIED.**
+**APPROVED — COMPASS ONLY**
 
-This DAR records the observed orientation discrepancy only.
+An approved compass-only correction has been applied to AST-000045.
 
-No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change is authorized or performed by this DAR.
+The correction changes only the controlled compass representation from:
 
-Any future orientation correction shall require explicit controlled authorization and shall follow the locked project orientation procedure.
+- North: UP
+- South: DOWN
+- East: RIGHT
+- West: LEFT
 
-The substantive building geometry shall not be silently rotated or mirrored.
+to the mandatory XOLANI project orientation:
+
+- North: DOWN
+- South: UP
+- East: LEFT
+- West: RIGHT
+
+No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change was made.
+
+The substantive building geometry was not rotated or mirrored.
 
 ## Architectural Evidence
 
@@ -159,14 +171,28 @@ It is not, by itself, a statutory land survey, sanctioned approval drawing, stru
 - Final BOQ and cost certification are not established by this DAR.
 - Construction authorization is not established by this DAR.
 
+## Correction Integrity
+
+- Original source SHA-256: **E2187D88F0010FF8B5ACF497EB356E95DA7160A90D1038F0210E5770D1C13B52**
+- Corrected installed drawing SHA-256: **8325D54425299709C3E3E2A6756BB23F6E5CC13B502D21F310EFD6352573E9EB**
+- Changed pixels inside controlled compass region: **7,456**
+- Changed pixels outside controlled compass region: **0**
+- Source dimensions: **1536 × 1024**
+- Corrected dimensions: **1536 × 1024**
+- Safety backup: `00_PROJECT_CONTROL/_controlled_backups/AST-000045_before_compass_correction_20260825_130300.png`
+
+The correction was visually re-inspected after candidate generation and before installation.
+
+The original source artifact is preserved in the controlled safety backup.
+
 ## Controlled Decision
 
 DAR-045 establishes AST-000045 as the controlled analysis record for the A-006 Conference Hall Building drawing.
 
-The orientation discrepancy is recorded for controlled disposition.
+The orientation discrepancy has been dispositioned through an approved compass-only correction.
 
-**No source PNG modification is made by this DAR.**
+**No substantive drawing geometry was modified.**
 
 ## Status
 
-**INSPECTED — ORIENTATION DISCREPANCY RECORDED — CORRECTION NOT YET AUTHORIZED**
+**APPROVED — COMPASS ONLY**
