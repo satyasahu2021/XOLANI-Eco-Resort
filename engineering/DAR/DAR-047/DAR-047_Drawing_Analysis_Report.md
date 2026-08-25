@@ -1,4 +1,4 @@
-﻿# DAR-047 - Drawing Analysis Report
+# DAR-047 - Drawing Analysis Report
 
 ## Controlled Asset
 
@@ -93,9 +93,13 @@ Therefore AST-000047 contains an **orientation representation discrepancy** rela
 
 ## Controlled Correction Status
 
-**NO CORRECTION HAS BEEN APPLIED.**
+**APPROVED — COMPASS ONLY**
 
-This DAR records the observed orientation discrepancy only.
+An approved compass-only correction has been applied to AST-000047.
+
+Only the controlled compass envelope was modified. No substantive drawing geometry, dimensions, labels, schedules, notes, elevations, sections, title block, or other drawing content was modified.
+
+This DAR records the observed orientation discrepancy and the subsequently verified compass-only correction.
 
 No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change is authorized or performed by this DAR.
 
@@ -164,8 +168,21 @@ DAR-047 establishes AST-000047 as the controlled analysis record for the A-008 U
 
 The orientation discrepancy is recorded for controlled disposition.
 
-**No source PNG modification is made by this DAR.**
+**The source PNG was modified only within the controlled compass envelope under the approved compass-only correction.**
 
 ## Status
 
-**INSPECTED — ORIENTATION DISCREPANCY RECORDED — CORRECTION NOT YET AUTHORIZED**
+**APPROVED — COMPASS ONLY**
+
+## Verified Compass-Only Correction Evidence
+
+- Original source SHA-256: **65C6C3C51B15E2EB57E3BDAA724DEBF22617996D7028DA3694F30CC7682CA61E**
+- Corrected installed drawing SHA-256: **BF066BF32FA15EE315EAFF64F9405FD6BF3AFA3AAC902C665105BB9082E12A11**
+- Changed pixels inside controlled compass region: **7,884**
+- Changed pixels outside controlled compass region: **0**
+- Source dimensions: **1536 × 1024**
+- Corrected dimensions: **1536 × 1024**
+- Visual inspection: **PASSED**
+- Safety backup: 0_PROJECT_CONTROL/_controlled_backups/AST-000047_before_compass_correction_20260825_171052.png
+
+The correction is limited to the controlled compass representation. The substantive architectural drawing content remains unchanged.
