@@ -1,4 +1,4 @@
-﻿# DAR-046 - Drawing Analysis Report
+# DAR-046 - Drawing Analysis Report
 
 ## Controlled Asset
 
@@ -93,15 +93,20 @@ Therefore AST-000046 contains an **orientation representation discrepancy** rela
 
 ## Controlled Correction Status
 
-**NO CORRECTION HAS BEEN APPLIED.**
+**APPROVED — COMPASS ONLY**
 
-This DAR records the observed orientation discrepancy only.
+An approved compass-only correction has been applied to AST-000046.
 
-No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change is authorized or performed by this DAR.
+The correction changes only the controlled compass representation to conform to the locked XOLANI project orientation:
 
-Any future orientation correction shall require explicit controlled authorization and shall follow the locked project orientation procedure.
+- North: DOWN
+- South: UP
+- East: LEFT
+- West: RIGHT
 
-The substantive building geometry shall not be silently rotated or mirrored.
+No full-sheet rotation, mirroring, relocation, redesign, geometry, dimension, coordinate, level, label, schedule, note, legend, elevation, section, or title-block change was made.
+
+The substantive building geometry was not rotated or mirrored.
 
 ## Architectural Evidence
 
@@ -168,4 +173,18 @@ The orientation discrepancy is recorded for controlled disposition.
 
 ## Status
 
-**INSPECTED — ORIENTATION DISCREPANCY RECORDED — CORRECTION NOT YET AUTHORIZED**
+**APPROVED — COMPASS ONLY**
+
+## Post-Correction Integrity Verification
+
+- Original source SHA-256: **6431F60A6680ECF0F93EFA0F0C893240437D586B9A4A01E9A8DAAC8A6DC4F435**
+- Corrected installed drawing SHA-256: **AA4B0E6DBEE91F1776E6B70228D74B1D5637855D038A794B63B401B4F3A92E68**
+- Changed pixels inside controlled compass region: **7,618**
+- Changed pixels outside controlled compass region: **0**
+- Source dimensions: **1536 × 1024**
+- Corrected dimensions: **1536 × 1024**
+- Safety backup: 00_PROJECT_CONTROL/_controlled_backups/AST-000046_before_compass_correction_20260825_151455.png
+
+The candidate passed the controlled visual inspection before installation.
+
+The installed drawing was independently hash-verified after installation.
